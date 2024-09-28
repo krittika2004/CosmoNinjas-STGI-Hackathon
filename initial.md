@@ -74,7 +74,5 @@ HR professionals often spend substantial time manually reviewing resumes, a proc
 
 ---
 
-### Links:
-- **Microsoft Form:** [Link to the Microsoft Form used for submission]
 
----
+
