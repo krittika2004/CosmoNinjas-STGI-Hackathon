@@ -53,3 +53,4 @@ Microsoft Excel: For data manipulation
 Email Platforms: Outlook or Gmail for communication and report sharing
 OCR (Optical Character Recognition): For extracting text from PDFs
 
+
